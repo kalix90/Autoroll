@@ -11,4 +11,4 @@
 2. Check **Developer mode** on the top right corner.
 3. Click **Load unpacked**.
 4. Select `free-auto-roll` folder you just cloned.
-5. Open [freebitco.in](https://freebico.in) and it is running.
+5. Open [https://freebitco.in](https://freebitco.in/?r=12525188) and it is running.
