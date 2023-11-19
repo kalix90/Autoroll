@@ -2,6 +2,7 @@
  work with chrome, firefox, opera, your sparm toaster
  
  BTC 1EozAamdKDFxCb9M5cGapxhXebdbaiWQ1Y
+ 
  REFERRAL https://freebitco.in/?r=12525188
  
 ## Installing on Chrome
